@@ -14,6 +14,10 @@ public class CollegeInformation{
 		}
 		public void collegeRank() {
 			System.out.println("College Rank: 2");
+		}
+			
+		public void collegeAdd() {
+				System.out.println("College Address:Vellore");
 
 }
 }
